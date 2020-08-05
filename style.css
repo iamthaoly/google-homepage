@@ -1,0 +1,63 @@
+body {
+    font-size: 16px;
+    padding: 0px;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+header{
+    text-align: right;
+    margin: 10px;
+    padding: 10px;
+}
+
+a:visited {
+    color: gray;
+}
+a {
+    color: blue;
+}
+
+#logo{
+    margin: 20px;
+}
+
+#thumbnail {
+    max-width: 40px;
+    border-radius: 50%;
+    float: right;
+}
+button {
+    font-size: 15px;
+    color: gray;
+    padding: 5px 15px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+button:hover {
+    color: black;
+}
+
+#search-bar {
+    margin: 10px;
+    font-size: 16px;
+    height: 30px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+footer {
+    height: 30px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    position: absolute;
+    bottom: 0px;
+    background-color: lightgray;
+}
+
+
+
