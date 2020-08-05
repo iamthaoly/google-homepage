@@ -1,3 +1,5 @@
+# Google Homepage clone
+
 In this project, I will recreate Google hompage on my own.
 Wish me luck! :D
 
